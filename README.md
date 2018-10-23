@@ -1,5 +1,5 @@
 # tyc
-I/259 The Tycho-2 Catalogue (Hog+ 2000)  
+The Tycho-2 Catalogue (Hog+ 2000)  
 http://cdsarc.u-strasbg.fr/viz-bin/cat/I/259
 
 ## Windows
